@@ -4,6 +4,5 @@ The student directory allows you to manage the list of students enrolled in Vill
 # # How To Use
 
 ```shell
-
 ruby directory.rb
 ```
